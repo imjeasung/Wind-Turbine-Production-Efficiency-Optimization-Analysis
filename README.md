@@ -1,5 +1,8 @@
 # 풍력 발전소 효율성 분석
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imjeasung/Wind-Turbine-Production-Efficiency-Optimization-Analysis/blob/main/wind_turbine.ipynb)
+[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/imjeasung/Wind-Turbine-Production-Efficiency-Optimization-Analysis/blob/main/wind_turbine.ipynb)
+
 이 프로젝트는 풍력 터빈의 발전 데이터를 분석하여 성능을 평가하고 최적화 방안을 찾는 데이터 분석 프로젝트입니다.
 
 https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting
@@ -79,3 +82,6 @@ jupyter notebook wind_turbine.ipynb
 ```bash
 pip install pandas matplotlib seaborn scikit-learn numpy
 ```
+
+### 온라인에서 바로 실행
+위의 "Open in Colab" 버튼을 클릭하면 Google Colab에서 바로 노트북을 실행할 수 있습니다.
