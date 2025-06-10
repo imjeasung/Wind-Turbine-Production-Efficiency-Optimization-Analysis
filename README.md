@@ -77,7 +77,3 @@ jupyter notebook wind_turbine.ipynb
 ```bash
 pip install pandas matplotlib seaborn scikit-learn numpy
 ```
-
----
-
-이 프로젝트는 재생 에너지 최적화를 위한 데이터 기반 접근 방식을 보여주는 실용적인 사례입니다.
